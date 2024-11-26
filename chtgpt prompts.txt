@@ -1,0 +1,72 @@
+week-1
+prompt: technical round
+conduct an interview for  a software developer. i want you to ask me questions on c language and let me answer the question is i respond i don't know to the question then you can generate answer to that question in 3-4 lines.in between you can also include multiple choice questions. when i say stop the interview you can stop the interview.
+prompt: HR round
+you are a HR, now conduct an interview to test my personal and inter personal skills by asking basic questions start asking questions one by one. you can also say how can i improve my self after receiving the answer.
+prompt: mock interview
+hey chatgpt now conduct a mock interview to test my communication skills after my answer let me know how to improve my self start asking questions one by one.
+
+week-2
+Prompt: create a physics simulation in java script of container full of gas molecules. The molecules should be simple diatomic helium gas molecules. Also in addition to collision physics also add corrections for van der wals forces and apply distortion to the mechanics of the molecules based on these forces
+Prompt: create a simple 2D demonstration of the above in java script to the level of complexity that you can code
+Prompt: using the mass of the helium nucleus and the speeds of the gas molecules, have label that outputs the temperature of the box at any instant. Use statistical mechanics to calculate the temperature
+Prompt: Update above code to add the label in html below the gas container. To the right of the gas container have a small box that explains the kinetic theory of gases and have the relevant equation below it
+
+week-3
+prompt: what is NLP and explain in a brief manner and also what is the use of it.
+prompt: what is text preprocessing.
+prompt: what are the model in NLP and text classification
+prompt: create a python script using the transformation library to build a simple chatbot powered by GPT-2 Import GPT2 Tokenizer,
+GPT2 LM Head Model and pipeline then load the pretrained GPT-2.Model along with its tokenizer initialize a text generation pipeline using these components .
+Define a chatbot class that manages the conversation and generates responses based on user input with a method to update the context and produce coherent replies finally, instantiate the chatbot and simulate a multi sentence conversation .Printing both user inputs and bots response to demonstrate its functionality
+in google collab type
+1.pip install transformers
+2.pip install torch
+
+week-4
+prompt: what are required for election campaign
+prompt: what are required for an election banner
+prompt: create a election banner with a candidate, a candidate should be a girl with a name amrutha wearing a saree and holding hands together by keeping namaskar  and the name should be in bold letters and the candidates position is MLA and the party name should be trs the background colour should be pink logo of the party is lotus the lotus should be in the middle of the banner it also should include a slogan "JOIN US FOR A CHANGE" also include schemes like free bus ,free education, free current also include social media links like Instagram, youtube, twitter. 
+
+week-5
+prompt: generate common customer complaints on online e-commerce website.
+prompt: generate instructions to yourself to handle the customer complaints about delayed deliveries the instructions should give recommendations inorder to save customer.
+customize chatgpt:
+respond quickly with empathy "we are sorry for the late deliveries and understood your problem"
+provide compensations "we would like to give you a 10% discount on your next order you have right to use this withon a year 
+when the customer is extremely unhappy and threatens your business and customer wants to cancel the order then "we would like to give you a coupon that you may use for the next 3 years.
+open a new chat and type prompts 
+prompt: generate a 5 customer complaints related to late deliveries.
+prompt: "I placed my order over two weeks ago, and I still haven’t received it. This delay is unacceptable! I rely on timely deliveries, and this is causing major inconvenience. When can I expect my package to arrive?".
+prompt: i want to cancel my order.
+
+week-6
+prompt: what is python code translation
+1.translation between versions: python2 to python 3
+2.translation between languages 
+prompt: generate a Fibonacci series in java language 
+prompt: convert the above code in python language 
+
+week-7
+prompt: what are python best practices
+1.meaningful variables & function names
+2.pep8 style increases readability
+3.avoid hard coding
+4.use comments 
+prompt: generate a factorial code without python best practices
+prompt: clean the above python code
+
+week-8
+prompt: generate a python script which uses google trans to translate the conversation snippets to english the code should contain the following first import trans function from google translation and then create a function translation_text which takes a text string and destination as parameters .this function should return the translated output. create a list of snippets each contains a string and the corresponding language code loop the list and print the original conversation snippet and the translated english language.
+in google collab type "pip install googletrans==4.0.0-rc1"
+
+week-9
+prompt: generate a scientific image of blood platelets which contains white and red blood cells 
+prompt: now generate a image of a human blood cells flowing through nerves and explain the structure of it and also label the parts in human blood cells for education purpose the image should be under a microscope.
+prompt: now generate the image which depicts the difference between white blood cells and red blood cells give 2 seperate images for both white and red blood cells and explain the internal structure of both the blood cells.
+
+week-10
+prompt:give me research papers with author names and titles from different papers like ieee and scorpus on the field of aiml.
+prompt: give me recent papers on the title data science and artificial intelligence.
+prompt: can you summarize the above papers and give me the abstract and problem statement.
+prompt: now write the research paper on the title data science and artificial intelligence which contains the breif abstract, introduction and literature review which contains the data about all research papers that have obtained above with wise findings, also include tables, graphs according to the information it should also contains methadology and explain about the algorithms if it contains also provide architecture diagram for the title and at last include conclusion and references references should contain author names.
